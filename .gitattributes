@@ -1,0 +1,7 @@
+# Keep finished CAD and image assets byte-identical across platforms.
+* -text
+*.md text eol=lf
+.gitattributes text eol=lf
+*.stl binary
+*.step binary
+*.png binary

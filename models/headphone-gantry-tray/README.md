@@ -1,0 +1,54 @@
+# Gantry Headphone Accessory Tray
+
+Rest the headphone headband on the crossbar and store earbuds and cables below; adjust support width, post span and tray rim height.
+
+**[Preview this model and customize it on boxesmodel](https://boxesmodel.com/models/headphone-gantry-tray)**
+
+![Gantry Headphone Accessory Tray — CAD preview](preview.png)
+
+## Default model
+
+| Property | Value |
+| --- | --- |
+| Category | Desktop Organizers |
+| Model version | 1.0.0 |
+| Default box size | 180 × 130 × 210 mm |
+| Included parts | 1 |
+| Formats | STL and STEP |
+| Units | Millimeters |
+
+Dimensions include the outer outline of the box; see the specifications for usable interior space.
+
+## Intended use
+
+- Headphones, earbuds and cables; check headband fit and weight support with a test print, and inspect crossbar bridging or supports in the slicer.
+
+## Download the parts
+
+Open a file below and choose **Download raw file** on GitHub. STL is for slicers; STEP is for CAD editing.
+
+| Part | Dimensions | STL | STEP |
+| --- | --- | --- | --- |
+| One-piece storage box | 180 × 130 × 210 mm | [body.stl](body.stl) | [body.step](body.step) |
+
+Each listed part has its own STL and STEP file. Preview colors are illustrative; the manufacturing files do not contain the displayed colors.
+
+## Printing and assembly
+
+- One-piece gantry and tray, no assembly hardware. Check crossbar bridging or supports when slicing; test-print to check load-bearing and headband contact first.
+- Units are millimeters. Measure clearance from your actual items first; check slicing before printing and test-fit the key mating parts.
+- Import at millimeter scale. Check your build volume, orientation, overhangs, supports and mating clearances in the slicer.
+
+## Adjust the design
+
+Visit the [interactive model page](https://boxesmodel.com/models/headphone-gantry-tray) to inspect the 3D model and adjust the available dimensions and layout options. This folder contains the default-size export shown above; custom exports follow the options and pricing shown on boxesmodel.
+
+## License and attribution
+
+Copyright © 2026 boxesmodel. These model files, preview and description are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may share, modify and use them commercially with the required attribution. See the [full license](../../LICENSE) and [attribution guide](../../ATTRIBUTION.md).
+
+Suggested credit:
+
+> “Gantry Headphone Accessory Tray” by [boxesmodel](https://boxesmodel.com/models/headphone-gantry-tray), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Indicate any changes you make.
+
+[Browse all models](../../CATALOG.md) · [About the collection](../../README.md)

@@ -2,7 +2,7 @@
 
 **743 ready-to-download designs for organizers, storage boxes and practical everyday objects.** Each design includes STL and editable STEP files, a CAD preview, an English description, dimensions, and model-specific printing and assembly notes.
 
-**[Browse all 743 models](CATALOG.md)** · **[Preview and customize on boxesmodel](https://boxesmodel.com/models)** · **[Download this collection](https://github.com/colorsung/boxesmodel-assets/archive/refs/tags/v2026.10.21.zip)**
+**[Browse all 743 models](CATALOG.md)** · **[Preview and customize on boxesmodel](https://boxesmodel.com/models)** · **[Fork this repository](https://github.com/colorsung/boxesmodel-assets/fork)**
 
 ## Explore a few designs
 
@@ -33,7 +33,7 @@ These categories follow the boxesmodel catalog. The [full index](CATALOG.md) lis
 3. Download the STL files for your slicer or STEP files for CAD editing. On a GitHub file page, choose **Download raw file**. Download every part listed for the model.
 4. Use the model's **Preview & customize** link to inspect it in 3D or adjust the available dimensions and layouts on boxesmodel.
 
-All files use **millimeters**. The collection contains **1,268 STL files and 1,268 STEP files**, representing 1,268 parts across 743 designs. The files in this repository are free to download, with no boxesmodel login required. For a complete copy, use the collection ZIP above or GitHub's **Code → Download ZIP**. Custom exports on boxesmodel follow the options and pricing shown on the platform.
+All files use **millimeters**. The collection contains **1,268 STL files and 1,268 STEP files**, representing 1,268 parts across 743 designs. Download the individual files you need from each model folder, with no boxesmodel login required. To maintain your own copy on GitHub or work on adaptations, use **[Fork](https://github.com/colorsung/boxesmodel-assets/fork)**. Custom exports on boxesmodel follow the options and pricing shown on the platform.
 
 ## What is included
 

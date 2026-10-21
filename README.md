@@ -4,15 +4,21 @@
 
 **[Browse all 743 models](CATALOG.md)** · **[Preview and customize on boxesmodel](https://boxesmodel.com/models)** · **[Fork this repository](https://github.com/colorsung/boxesmodel-3d-printable-models/fork)**
 
-## Explore a few designs
+## Featured models
+
+Click a thumbnail to preview and customize that model on boxesmodel. Each design also includes free STL and STEP files in this repository.
 
 | [Offset Rounded Five Pocket Tray](models/offset-five-pocket-tray/) | [Fluted Flat-Back Rising-Rim Caddy](models/fluted-flatback-rise-caddy/) | [Rounded-Pentagon Lift-Off Case](models/soft-pentagon-lift-case/) |
 | --- | --- | --- |
-| [![Offset Rounded Five Pocket Tray](models/offset-five-pocket-tray/preview.png)](models/offset-five-pocket-tray/) | [![Fluted Flat-Back Rising-Rim Caddy](models/fluted-flatback-rise-caddy/preview.png)](models/fluted-flatback-rise-caddy/) | [![Rounded-Pentagon Lift-Off Case](models/soft-pentagon-lift-case/preview.png)](models/soft-pentagon-lift-case/) |
+| [<img src="models/offset-five-pocket-tray/preview.png" alt="Offset Rounded Five Pocket Tray" width="240">](https://boxesmodel.com/models/offset-five-pocket-tray) | [<img src="models/fluted-flatback-rise-caddy/preview.png" alt="Fluted Flat-Back Rising-Rim Caddy" width="240">](https://boxesmodel.com/models/fluted-flatback-rise-caddy) | [<img src="models/soft-pentagon-lift-case/preview.png" alt="Rounded-Pentagon Lift-Off Case" width="240">](https://boxesmodel.com/models/soft-pentagon-lift-case) |
+| Five pockets for sorting small items in a drawer or on a desk. | Tall rear storage and lower front pockets in a fluted desk caddy. | A rounded five-sided box with divided storage and a matching lift-off lid. |
+| [STL & STEP](models/offset-five-pocket-tray/) · [Preview & customize](https://boxesmodel.com/models/offset-five-pocket-tray) | [STL & STEP](models/fluted-flatback-rise-caddy/) · [Preview & customize](https://boxesmodel.com/models/fluted-flatback-rise-caddy) | [STL & STEP](models/soft-pentagon-lift-case/) · [Preview & customize](https://boxesmodel.com/models/soft-pentagon-lift-case) |
 
 | [Tapered Fluted Planter with Saucer](models/taper-flute-planter-saucer/) | [Side-Access Under-Desk Cable Trough](models/side-service-underdesk-trough/) | [Round Lift-Out Draining Caddy with Spout](models/round-spout-lift-drain-caddy/) |
 | --- | --- | --- |
-| [![Tapered Fluted Planter with Saucer](models/taper-flute-planter-saucer/preview.png)](models/taper-flute-planter-saucer/) | [![Side-Access Under-Desk Cable Trough](models/side-service-underdesk-trough/preview.png)](models/side-service-underdesk-trough/) | [![Round Lift-Out Draining Caddy with Spout](models/round-spout-lift-drain-caddy/preview.png)](models/round-spout-lift-drain-caddy/) |
+| [<img src="models/taper-flute-planter-saucer/preview.png" alt="Tapered Fluted Planter with Saucer" width="240">](https://boxesmodel.com/models/taper-flute-planter-saucer) | [<img src="models/side-service-underdesk-trough/preview.png" alt="Side-Access Under-Desk Cable Trough" width="240">](https://boxesmodel.com/models/side-service-underdesk-trough) | [<img src="models/round-spout-lift-drain-caddy/preview.png" alt="Round Lift-Out Draining Caddy with Spout" width="240">](https://boxesmodel.com/models/round-spout-lift-drain-caddy) |
+| A grooved planter with drainage holes and a separate raised saucer. | Route cables below a desk with open ends and side access. | A removable draining basket over a sloped base with a sink-facing spout. |
+| [STL & STEP](models/taper-flute-planter-saucer/) · [Preview & customize](https://boxesmodel.com/models/taper-flute-planter-saucer) | [STL & STEP](models/side-service-underdesk-trough/) · [Preview & customize](https://boxesmodel.com/models/side-service-underdesk-trough) | [STL & STEP](models/round-spout-lift-drain-caddy/) · [Preview & customize](https://boxesmodel.com/models/round-spout-lift-drain-caddy) |
 
 ## Browse by category
 

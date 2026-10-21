@@ -1,40 +1,42 @@
 # Stackable Storage
 
-32 models. Open a model for its description, preview, STL and STEP files, and assembly notes.
+**Page 1 of 1** · Models 1–32 of 32
 
-[All models](../CATALOG.md)
+Click a thumbnail or model name to open its files and guide. Use **Preview & customize** to open the interactive model on boxesmodel.
 
-| Model | Default dimensions | Parts | Preview & customize |
-| --- | --- | ---: | --- |
-| [Angled Slot Lift-Out Divider Box](../models/diagonal-lift-divider-box/) | 165 × 125 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/diagonal-lift-divider-box) |
-| [Arched Handle Inner Basket Box](../models/ring-handle-lift-basket/) | 175 × 125 × 85 mm | 2 | [boxesmodel](https://boxesmodel.com/models/ring-handle-lift-basket) |
-| [Cone Cup Sieve & Catch Tray Box](../models/cone-screen-lift-case/) | 145 × 135 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/cone-screen-lift-case) |
-| [Corner Raised Deck Lift-Out Box](../models/corner-balcony-lift-case/) | 180 × 135 × 62 mm | 2 | [boxesmodel](https://boxesmodel.com/models/corner-balcony-lift-case) |
-| [Crescent Lift-Out Cup Zone Box](../models/crescent-lift-cup-case/) | 150 × 140 × 50 mm | 2 | [boxesmodel](https://boxesmodel.com/models/crescent-lift-cup-case) |
-| [Curved Egg Pocket Stacking Trays](../models/egg-cradle-stack/) | 178.4 × 121.2 × 140.8 mm | 2 | [boxesmodel](https://boxesmodel.com/models/egg-cradle-stack) |
-| [Diamond Lift-Out Sorting Box](../models/diamond-lift-bin/) | 175 × 125 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/diamond-lift-bin) |
-| [Folded Valley Lift-Out Insert Box](../models/accordion-vee-lift-case/) | 180 × 150 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/accordion-vee-lift-case) |
-| [Fork-Ear Linked Divided Box Set](../models/clevis-coupled-cell-carrier/) | 220 × 180 × 164 mm | 7 | [boxesmodel](https://boxesmodel.com/models/clevis-coupled-cell-carrier) |
-| [Four-Corner Locating Stacking Baskets](../models/corner-lock-crate/) | 200 × 160 × 160 mm | 2 | [boxesmodel](https://boxesmodel.com/models/corner-lock-crate) |
-| [Four-Pin Aligned Stacking Boxes](../models/pin-stack-box/) | 175 × 120 × 110 mm | 6 | [boxesmodel](https://boxesmodel.com/models/pin-stack-box) |
-| [Front-Access Stacking Compartment Box](../models/front-access-stack/) | 200 × 150 × 180 mm | 3 | [boxesmodel](https://boxesmodel.com/models/front-access-stack) |
-| [Graded Sieve Stacking Trays](../models/graded-sieve-stack/) | 160 × 130 × 135 mm | 4 | [boxesmodel](https://boxesmodel.com/models/graded-sieve-stack) |
-| [H-Shaped Long-Item Lift-Out Box](../models/h-channel-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/h-channel-lift-case) |
-| [Hex Tenon Lift-Out Divider Box](../models/hex-keyed-divider-case/) | 170 × 115 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/hex-keyed-divider-case) |
-| [Ladder Rack Tool Lift-Out Box](../models/ladder-deck-lift-case/) | 185 × 125 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/ladder-deck-lift-case) |
-| [Lift-Out Card Slot Insert Box](../models/card-cassette-lift-box/) | 165 × 140 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/card-cassette-lift-box) |
-| [Meandering River Two-Zone Lift-Out Box](../models/zigzag-river-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/zigzag-river-lift-case) |
-| [Nesting Cup Organizer](../models/nested-cup-case/) | 150 × 120 × 65 mm | 4 | [boxesmodel](https://boxesmodel.com/models/nested-cup-case) |
-| [Oval Cross Lift-Out Cup Box](../models/oval-cross-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/oval-cross-lift-case) |
-| [Parallel Linkage Tiered Box](../models/cantilever-tier-box/) | 160 × 247.5 × 79.4 mm | 8 | [boxesmodel](https://boxesmodel.com/models/cantilever-tier-box) |
-| [Round Core Radial Compartment Box](../models/split-ring-core-case/) | 155 × 130 × 50 mm | 2 | [boxesmodel](https://boxesmodel.com/models/split-ring-core-case) |
-| [Separate Round Lid Well Box](../models/circle-cap-cell-box/) | 185 × 100 × 50 mm | 4 | [boxesmodel](https://boxesmodel.com/models/circle-cap-cell-box) |
-| [Stacking Divided Box](../models/stacked-tray/) | 200 × 140 × 138 mm | 3 | [boxesmodel](https://boxesmodel.com/models/stacked-tray) |
-| [Staggered Two-Cup Lift-Out Box](../models/stair-step-lift-caddy/) | 160 × 145 × 70 mm | 3 | [boxesmodel](https://boxesmodel.com/models/stair-step-lift-caddy) |
-| [Star Core Perimeter Compartment Box](../models/star-center-lift-case/) | 190 × 150 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/star-center-lift-case) |
-| [Swivel Tiered Storage Trays](../models/swivel-tray-tower/) | 190 × 120 × 140 mm | 5 | [boxesmodel](https://boxesmodel.com/models/swivel-tray-tower) |
-| [Through Lock Post Swing-Out Tower](../models/keyed-column-swing-tower/) | 220 × 150 × 165 mm | 13 | [boxesmodel](https://boxesmodel.com/models/keyed-column-swing-tower) |
-| [Triangle Shared-Wall Lift-Out Box](../models/triangle-cell-lift-case/) | 185 × 130 × 50 mm | 2 | [boxesmodel](https://boxesmodel.com/models/triangle-cell-lift-case) |
-| [Twin-Slope Gathering Lift-Out Box](../models/paired-ramp-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/paired-ramp-lift-case) |
-| [Two-Level Draining Box](../models/sieve-box/) | 180 × 130 × 60 mm | 2 | [boxesmodel](https://boxesmodel.com/models/sieve-box) |
-| [Y-Shaped Workflow Lift-Out Box](../models/y-junction-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/y-junction-lift-case) |
+[All models](../CATALOG.md) · [Collection overview](../README.md)
+
+| Thumbnail | Model | Default dimensions | Parts | Preview & customize |
+| --- | --- | --- | ---: | --- |
+| [<img src="../models/diagonal-lift-divider-box/preview.png" alt="Angled Slot Lift-Out Divider Box" width="140">](../models/diagonal-lift-divider-box/) | [Angled Slot Lift-Out Divider Box](../models/diagonal-lift-divider-box/) | 165 × 125 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/diagonal-lift-divider-box) |
+| [<img src="../models/ring-handle-lift-basket/preview.png" alt="Arched Handle Inner Basket Box" width="140">](../models/ring-handle-lift-basket/) | [Arched Handle Inner Basket Box](../models/ring-handle-lift-basket/) | 175 × 125 × 85 mm | 2 | [boxesmodel](https://boxesmodel.com/models/ring-handle-lift-basket) |
+| [<img src="../models/cone-screen-lift-case/preview.png" alt="Cone Cup Sieve &amp; Catch Tray Box" width="140">](../models/cone-screen-lift-case/) | [Cone Cup Sieve & Catch Tray Box](../models/cone-screen-lift-case/) | 145 × 135 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/cone-screen-lift-case) |
+| [<img src="../models/corner-balcony-lift-case/preview.png" alt="Corner Raised Deck Lift-Out Box" width="140">](../models/corner-balcony-lift-case/) | [Corner Raised Deck Lift-Out Box](../models/corner-balcony-lift-case/) | 180 × 135 × 62 mm | 2 | [boxesmodel](https://boxesmodel.com/models/corner-balcony-lift-case) |
+| [<img src="../models/crescent-lift-cup-case/preview.png" alt="Crescent Lift-Out Cup Zone Box" width="140">](../models/crescent-lift-cup-case/) | [Crescent Lift-Out Cup Zone Box](../models/crescent-lift-cup-case/) | 150 × 140 × 50 mm | 2 | [boxesmodel](https://boxesmodel.com/models/crescent-lift-cup-case) |
+| [<img src="../models/egg-cradle-stack/preview.png" alt="Curved Egg Pocket Stacking Trays" width="140">](../models/egg-cradle-stack/) | [Curved Egg Pocket Stacking Trays](../models/egg-cradle-stack/) | 178.4 × 121.2 × 140.8 mm | 2 | [boxesmodel](https://boxesmodel.com/models/egg-cradle-stack) |
+| [<img src="../models/diamond-lift-bin/preview.png" alt="Diamond Lift-Out Sorting Box" width="140">](../models/diamond-lift-bin/) | [Diamond Lift-Out Sorting Box](../models/diamond-lift-bin/) | 175 × 125 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/diamond-lift-bin) |
+| [<img src="../models/accordion-vee-lift-case/preview.png" alt="Folded Valley Lift-Out Insert Box" width="140">](../models/accordion-vee-lift-case/) | [Folded Valley Lift-Out Insert Box](../models/accordion-vee-lift-case/) | 180 × 150 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/accordion-vee-lift-case) |
+| [<img src="../models/clevis-coupled-cell-carrier/preview.png" alt="Fork-Ear Linked Divided Box Set" width="140">](../models/clevis-coupled-cell-carrier/) | [Fork-Ear Linked Divided Box Set](../models/clevis-coupled-cell-carrier/) | 220 × 180 × 164 mm | 7 | [boxesmodel](https://boxesmodel.com/models/clevis-coupled-cell-carrier) |
+| [<img src="../models/corner-lock-crate/preview.png" alt="Four-Corner Locating Stacking Baskets" width="140">](../models/corner-lock-crate/) | [Four-Corner Locating Stacking Baskets](../models/corner-lock-crate/) | 200 × 160 × 160 mm | 2 | [boxesmodel](https://boxesmodel.com/models/corner-lock-crate) |
+| [<img src="../models/pin-stack-box/preview.png" alt="Four-Pin Aligned Stacking Boxes" width="140">](../models/pin-stack-box/) | [Four-Pin Aligned Stacking Boxes](../models/pin-stack-box/) | 175 × 120 × 110 mm | 6 | [boxesmodel](https://boxesmodel.com/models/pin-stack-box) |
+| [<img src="../models/front-access-stack/preview.png" alt="Front-Access Stacking Compartment Box" width="140">](../models/front-access-stack/) | [Front-Access Stacking Compartment Box](../models/front-access-stack/) | 200 × 150 × 180 mm | 3 | [boxesmodel](https://boxesmodel.com/models/front-access-stack) |
+| [<img src="../models/graded-sieve-stack/preview.png" alt="Graded Sieve Stacking Trays" width="140">](../models/graded-sieve-stack/) | [Graded Sieve Stacking Trays](../models/graded-sieve-stack/) | 160 × 130 × 135 mm | 4 | [boxesmodel](https://boxesmodel.com/models/graded-sieve-stack) |
+| [<img src="../models/h-channel-lift-case/preview.png" alt="H-Shaped Long-Item Lift-Out Box" width="140">](../models/h-channel-lift-case/) | [H-Shaped Long-Item Lift-Out Box](../models/h-channel-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/h-channel-lift-case) |
+| [<img src="../models/hex-keyed-divider-case/preview.png" alt="Hex Tenon Lift-Out Divider Box" width="140">](../models/hex-keyed-divider-case/) | [Hex Tenon Lift-Out Divider Box](../models/hex-keyed-divider-case/) | 170 × 115 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/hex-keyed-divider-case) |
+| [<img src="../models/ladder-deck-lift-case/preview.png" alt="Ladder Rack Tool Lift-Out Box" width="140">](../models/ladder-deck-lift-case/) | [Ladder Rack Tool Lift-Out Box](../models/ladder-deck-lift-case/) | 185 × 125 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/ladder-deck-lift-case) |
+| [<img src="../models/card-cassette-lift-box/preview.png" alt="Lift-Out Card Slot Insert Box" width="140">](../models/card-cassette-lift-box/) | [Lift-Out Card Slot Insert Box](../models/card-cassette-lift-box/) | 165 × 140 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/card-cassette-lift-box) |
+| [<img src="../models/zigzag-river-lift-case/preview.png" alt="Meandering River Two-Zone Lift-Out Box" width="140">](../models/zigzag-river-lift-case/) | [Meandering River Two-Zone Lift-Out Box](../models/zigzag-river-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/zigzag-river-lift-case) |
+| [<img src="../models/nested-cup-case/preview.png" alt="Nesting Cup Organizer" width="140">](../models/nested-cup-case/) | [Nesting Cup Organizer](../models/nested-cup-case/) | 150 × 120 × 65 mm | 4 | [boxesmodel](https://boxesmodel.com/models/nested-cup-case) |
+| [<img src="../models/oval-cross-lift-case/preview.png" alt="Oval Cross Lift-Out Cup Box" width="140">](../models/oval-cross-lift-case/) | [Oval Cross Lift-Out Cup Box](../models/oval-cross-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/oval-cross-lift-case) |
+| [<img src="../models/cantilever-tier-box/preview.png" alt="Parallel Linkage Tiered Box" width="140">](../models/cantilever-tier-box/) | [Parallel Linkage Tiered Box](../models/cantilever-tier-box/) | 160 × 247.5 × 79.4 mm | 8 | [boxesmodel](https://boxesmodel.com/models/cantilever-tier-box) |
+| [<img src="../models/split-ring-core-case/preview.png" alt="Round Core Radial Compartment Box" width="140">](../models/split-ring-core-case/) | [Round Core Radial Compartment Box](../models/split-ring-core-case/) | 155 × 130 × 50 mm | 2 | [boxesmodel](https://boxesmodel.com/models/split-ring-core-case) |
+| [<img src="../models/circle-cap-cell-box/preview.png" alt="Separate Round Lid Well Box" width="140">](../models/circle-cap-cell-box/) | [Separate Round Lid Well Box](../models/circle-cap-cell-box/) | 185 × 100 × 50 mm | 4 | [boxesmodel](https://boxesmodel.com/models/circle-cap-cell-box) |
+| [<img src="../models/stacked-tray/preview.png" alt="Stacking Divided Box" width="140">](../models/stacked-tray/) | [Stacking Divided Box](../models/stacked-tray/) | 200 × 140 × 138 mm | 3 | [boxesmodel](https://boxesmodel.com/models/stacked-tray) |
+| [<img src="../models/stair-step-lift-caddy/preview.png" alt="Staggered Two-Cup Lift-Out Box" width="140">](../models/stair-step-lift-caddy/) | [Staggered Two-Cup Lift-Out Box](../models/stair-step-lift-caddy/) | 160 × 145 × 70 mm | 3 | [boxesmodel](https://boxesmodel.com/models/stair-step-lift-caddy) |
+| [<img src="../models/star-center-lift-case/preview.png" alt="Star Core Perimeter Compartment Box" width="140">](../models/star-center-lift-case/) | [Star Core Perimeter Compartment Box](../models/star-center-lift-case/) | 190 × 150 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/star-center-lift-case) |
+| [<img src="../models/swivel-tray-tower/preview.png" alt="Swivel Tiered Storage Trays" width="140">](../models/swivel-tray-tower/) | [Swivel Tiered Storage Trays](../models/swivel-tray-tower/) | 190 × 120 × 140 mm | 5 | [boxesmodel](https://boxesmodel.com/models/swivel-tray-tower) |
+| [<img src="../models/keyed-column-swing-tower/preview.png" alt="Through Lock Post Swing-Out Tower" width="140">](../models/keyed-column-swing-tower/) | [Through Lock Post Swing-Out Tower](../models/keyed-column-swing-tower/) | 220 × 150 × 165 mm | 13 | [boxesmodel](https://boxesmodel.com/models/keyed-column-swing-tower) |
+| [<img src="../models/triangle-cell-lift-case/preview.png" alt="Triangle Shared-Wall Lift-Out Box" width="140">](../models/triangle-cell-lift-case/) | [Triangle Shared-Wall Lift-Out Box](../models/triangle-cell-lift-case/) | 185 × 130 × 50 mm | 2 | [boxesmodel](https://boxesmodel.com/models/triangle-cell-lift-case) |
+| [<img src="../models/paired-ramp-lift-case/preview.png" alt="Twin-Slope Gathering Lift-Out Box" width="140">](../models/paired-ramp-lift-case/) | [Twin-Slope Gathering Lift-Out Box](../models/paired-ramp-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/paired-ramp-lift-case) |
+| [<img src="../models/sieve-box/preview.png" alt="Two-Level Draining Box" width="140">](../models/sieve-box/) | [Two-Level Draining Box](../models/sieve-box/) | 180 × 130 × 60 mm | 2 | [boxesmodel](https://boxesmodel.com/models/sieve-box) |
+| [<img src="../models/y-junction-lift-case/preview.png" alt="Y-Shaped Workflow Lift-Out Box" width="140">](../models/y-junction-lift-case/) | [Y-Shaped Workflow Lift-Out Box](../models/y-junction-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/y-junction-lift-case) |

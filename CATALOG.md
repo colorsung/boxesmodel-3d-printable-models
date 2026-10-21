@@ -6,6 +6,8 @@
 
 ## Desktop Organizers (544)
 
+[Browse this category with thumbnails](categories/desktop-organizers.md)
+
 | Model | Default dimensions | Parts | Preview & customize |
 | --- | --- | ---: | --- |
 | [42 mm Grid Locating Bin](models/grid-seat-bin/) | 126 × 84 × 45.8 mm | 2 | [boxesmodel](https://boxesmodel.com/models/grid-seat-bin) |
@@ -555,6 +557,8 @@
 
 ## Stackable Storage (32)
 
+[Browse this category with thumbnails](categories/stackable-storage.md)
+
 | Model | Default dimensions | Parts | Preview & customize |
 | --- | --- | ---: | --- |
 | [Angled Slot Lift-Out Divider Box](models/diagonal-lift-divider-box/) | 165 × 125 × 55 mm | 2 | [boxesmodel](https://boxesmodel.com/models/diagonal-lift-divider-box) |
@@ -591,6 +595,8 @@
 | [Y-Shaped Workflow Lift-Out Box](models/y-junction-lift-case/) | 180 × 130 × 48 mm | 2 | [boxesmodel](https://boxesmodel.com/models/y-junction-lift-case) |
 
 ## Lidded Storage (96)
+
+[Browse this category with thumbnails](categories/lidded-storage.md)
 
 | Model | Default dimensions | Parts | Preview & customize |
 | --- | --- | ---: | --- |
@@ -693,6 +699,8 @@
 
 ## Open Storage (61)
 
+[Browse this category with thumbnails](categories/open-storage.md)
+
 | Model | Default dimensions | Parts | Preview & customize |
 | --- | --- | ---: | --- |
 | [Arched-Vent Nursery Pot Sleeve](models/arched-vent-nursery-sleeve/) | 145 × 145 × 115 mm | 1 | [boxesmodel](https://boxesmodel.com/models/arched-vent-nursery-sleeve) |
@@ -758,6 +766,8 @@
 | [Windowed Bangle Arc Slot Box](models/bangle-upright-saddle/) | 130 × 100 × 50 mm | 1 | [boxesmodel](https://boxesmodel.com/models/bangle-upright-saddle) |
 
 ## Drawer Storage (10)
+
+[Browse this category with thumbnails](categories/drawer-storage.md)
 
 | Model | Default dimensions | Parts | Preview & customize |
 | --- | --- | ---: | --- |

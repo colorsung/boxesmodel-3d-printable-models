@@ -1,69 +1,64 @@
 # Open Storage
 
-61 models. Open a model for its description, preview, STL and STEP files, and assembly notes.
+**Page 1 of 2** · Models 1–50 of 61
 
-[All models](../CATALOG.md)
+Click a thumbnail or model name to open its files and guide. Use **Preview & customize** to open the interactive model on boxesmodel.
 
-| Model | Default dimensions | Parts | Preview & customize |
-| --- | --- | ---: | --- |
-| [Arched-Vent Nursery Pot Sleeve](../models/arched-vent-nursery-sleeve/) | 145 × 145 × 115 mm | 1 | [boxesmodel](https://boxesmodel.com/models/arched-vent-nursery-sleeve) |
-| [Axle-Rest Roll Cutter Station](../models/roll-cutter-rail-holder/) | 380 × 130 × 135 mm | 4 | [boxesmodel](https://boxesmodel.com/models/roll-cutter-rail-holder) |
-| [Bag Roll Dispenser Box](../models/bag-roll-dispenser/) | 180 × 110 × 100 mm | 2 | [boxesmodel](https://boxesmodel.com/models/bag-roll-dispenser) |
-| [Beauty Sponge Flared Pocket Box](../models/makeup-sponge-taper-bed/) | 190 × 105 × 38 mm | 1 | [boxesmodel](https://boxesmodel.com/models/makeup-sponge-taper-bed) |
-| [Boxed Capsule Bottom-Dispensing Compartment Seat](../models/carton-feed-caddy/) | 135 × 90 × 86.4 mm | 1 | [boxesmodel](https://boxesmodel.com/models/carton-feed-caddy) |
-| [Cap-Rest Fork Two-Level Bottle Rack](../models/fork-vial-step-carrier/) | 160 × 70 × 138 mm | 2 | [boxesmodel](https://boxesmodel.com/models/fork-vial-step-carrier) |
-| [Comb Tooth Relief Lying Box](../models/comb-tooth-guard-box/) | 180 × 75 × 45 mm | 1 | [boxesmodel](https://boxesmodel.com/models/comb-tooth-guard-box) |
-| [Controller Twin-Wing Outline Box](../models/controller-wing-basin/) | 185 × 125 × 38 mm | 1 | [boxesmodel](https://boxesmodel.com/models/controller-wing-basin) |
-| [Curved Brim Cap Holder](../models/arc-slot-cap-caddy/) | 210 × 280 × 50 mm | 1 | [boxesmodel](https://boxesmodel.com/models/arc-slot-cap-caddy) |
-| [Cut-Out Storage Box](../models/window-box/) | 200 × 130 × 75 mm | 1 | [boxesmodel](https://boxesmodel.com/models/window-box) |
-| [Cylinder Bottom-Dispensing Bin](../models/battery-feed-bin/) | 109.8 × 72.9 × 120 mm | 1 | [boxesmodel](https://boxesmodel.com/models/battery-feed-bin) |
-| [Date-Label Gentle Slope Egg Rack](../models/date-tab-egg-ramp/) | 90 × 240 × 55.9 mm | 2 | [boxesmodel](https://boxesmodel.com/models/date-tab-egg-ramp) |
-| [Deep Cabinet Front-Pull Steady Bottle Box](../models/front-pull-bottle-caddy/) | 92 × 245 × 94 mm | 1 | [boxesmodel](https://boxesmodel.com/models/front-pull-bottle-caddy) |
-| [Drop-Down Front Paper Box Wall Rack](../models/fold-gate-carton-wall-cradle/) | 290 × 135 × 100 mm | 11 | [boxesmodel](https://boxesmodel.com/models/fold-gate-carton-wall-cradle) |
-| [Empty Hanger Double-Shoulder Stand](../models/hanger-shoulder-stack-cradle/) | 374 × 79.51 × 38 mm | 3 | [boxesmodel](https://boxesmodel.com/models/hanger-shoulder-stack-cradle) |
-| [Flanged Tapered Drainage Liner](../models/rim-rest-drainage-liner/) | 150 × 150 × 115 mm | 1 | [boxesmodel](https://boxesmodel.com/models/rim-rest-drainage-liner) |
-| [Flow Guide Sorting Tray](../models/pour-sorter/) | 180 × 130 × 32 mm | 1 | [boxesmodel](https://boxesmodel.com/models/pour-sorter) |
-| [Folding Column Crate](../models/folding-partition-crate/) | 184 × 144 × 64 mm | 10 | [boxesmodel](https://boxesmodel.com/models/folding-partition-crate) |
-| [French Cleat Wall Divided Box](../models/cleat-hanging-bin/) | 180 × 110 × 85 mm | 2 | [boxesmodel](https://boxesmodel.com/models/cleat-hanging-bin) |
-| [Hairpin Switchback Lane Tray](../models/hairpin-labyrinth-tray/) | 180 × 130 × 25 mm | 1 | [boxesmodel](https://boxesmodel.com/models/hairpin-labyrinth-tray) |
-| [Handle Storage Basket](../models/carry-caddy/) | 220 × 150 × 125 mm | 1 | [boxesmodel](https://boxesmodel.com/models/carry-caddy) |
-| [Horseshoe Nozzle Clearance Box](../models/dryer-nozzle-horseshoe/) | 130 × 125 × 35 mm | 1 | [boxesmodel](https://boxesmodel.com/models/dryer-nozzle-horseshoe) |
-| [Interchangeable Soft Liner Lens Bay](../models/soft-liner-lens-cup/) | 110 × 110 × 40 mm | 2 | [boxesmodel](https://boxesmodel.com/models/soft-liner-lens-cup) |
-| [Lift-Mat Textured Brush Shallow Box](../models/lift-mat-brush-basin/) | 150 × 110 × 25 mm | 2 | [boxesmodel](https://boxesmodel.com/models/lift-mat-brush-basin) |
-| [Lift-Out Tube Folding Umbrella Drip Stand](../models/lift-cup-umbrella-basin/) | 140 × 130 × 190 mm | 2 | [boxesmodel](https://boxesmodel.com/models/lift-cup-umbrella-basin) |
-| [Lipstick Stepped Shoulder Locating Box](../models/lipstick-step-well-box/) | 170 × 110 × 50 mm | 1 | [boxesmodel](https://boxesmodel.com/models/lipstick-step-well-box) |
-| [Mid-Grip Cotton Bud Box](../models/cotton-swab-cross-box/) | 165 × 85 × 40 mm | 1 | [boxesmodel](https://boxesmodel.com/models/cotton-swab-cross-box) |
-| [Mouse Pear-Shaped Tail Slot Box](../models/mouse-pear-tail-case/) | 180 × 120 × 35 mm | 1 | [boxesmodel](https://boxesmodel.com/models/mouse-pear-tail-case) |
-| [Movable Two-Leg Divider Lid Rack](../models/twin-key-lid-file/) | 240 × 170 × 110 mm | 5 | [boxesmodel](https://boxesmodel.com/models/twin-key-lid-file) |
-| [Neck & Body Twin-Cradle Bottle Box](../models/heel-stop-bottle-cellar/) | 240 × 210 × 65 mm | 1 | [boxesmodel](https://boxesmodel.com/models/heel-stop-bottle-cellar) |
-| [Open-Front Parts Box](../models/scoop-bin/) | 200 × 150 × 90 mm | 1 | [boxesmodel](https://boxesmodel.com/models/scoop-bin) |
-| [Open-Front Two-Shoe Rack](../models/open-front-shoe-pair/) | 150 × 238 × 132 mm | 2 | [boxesmodel](https://boxesmodel.com/models/open-front-shoe-pair) |
-| [Pen Lay-Flat Slot Tray](../models/pen-tip-tray/) | 200 × 100 × 18 mm | 1 | [boxesmodel](https://boxesmodel.com/models/pen-tip-tray) |
-| [Pleated Filter Paper Shaping Tube](../models/wave-filter-cup/) | 114.4 × 114.4 × 51.4 mm | 1 | [boxesmodel](https://boxesmodel.com/models/wave-filter-cup) |
-| [Return Hook Yarn Guide Bowl](../models/yarn-guide-bowl/) | 119.6 × 119.6 × 87.8 mm | 1 | [boxesmodel](https://boxesmodel.com/models/yarn-guide-bowl) |
-| [Ring Groove Ring Sorting Tray](../models/ring-channel-vanity-box/) | 130 × 130 × 25 mm | 1 | [boxesmodel](https://boxesmodel.com/models/ring-channel-vanity-box) |
-| [Ring-Ended Rolled Mat Holder](../models/split-collar-mat-bin/) | 240 × 170 × 70 mm | 3 | [boxesmodel](https://boxesmodel.com/models/split-collar-mat-bin) |
-| [Rolled Strap & Buckle Compartment Box](../models/coil-buckle-pocket-box/) | 220 × 150 × 55 mm | 1 | [boxesmodel](https://boxesmodel.com/models/coil-buckle-pocket-box) |
-| [Round Lift-Out Draining Caddy with Spout](../models/round-spout-lift-drain-caddy/) | 150 × 170 × 85 mm | 2 | [boxesmodel](https://boxesmodel.com/models/round-spout-lift-drain-caddy) |
-| [Shaver Head & Handle Compartment Box](../models/razor-head-saddle-box/) | 155 × 120 × 35 mm | 1 | [boxesmodel](https://boxesmodel.com/models/razor-head-saddle-box) |
-| [Shoulder-Clamp Power Tool Battery Dock](../models/shoulder-jaw-battery-nest/) | 130 × 104 × 24.4 mm | 3 | [boxesmodel](https://boxesmodel.com/models/shoulder-jaw-battery-nest) |
-| [Side-Access Under-Desk Cable Trough](../models/side-service-underdesk-trough/) | 220 × 110 × 65 mm | 1 | [boxesmodel](https://boxesmodel.com/models/side-service-underdesk-trough) |
-| [Side-Pick Disc Box](../models/cotton-pad-dispenser/) | 130 × 90 × 130 mm | 1 | [boxesmodel](https://boxesmodel.com/models/cotton-pad-dispenser) |
-| [Sink-Spanning Two-Side Compartment Box](../models/saddle-drain-caddy/) | 122.8 × 150 × 55 mm | 1 | [boxesmodel](https://boxesmodel.com/models/saddle-drain-caddy) |
-| [Square & Round Bottle Base Locating Tray](../models/perfume-footprint-caddy/) | 185 × 125 × 32 mm | 1 | [boxesmodel](https://boxesmodel.com/models/perfume-footprint-caddy) |
-| [Suspended Brush Head Cross Slot Box](../models/powder-brush-groove-tray/) | 195 × 135 × 38 mm | 1 | [boxesmodel](https://boxesmodel.com/models/powder-brush-groove-tray) |
-| [Tapered Fluted Planter with Saucer](../models/taper-flute-planter-saucer/) | 150 × 150 × 140 mm | 2 | [boxesmodel](https://boxesmodel.com/models/taper-flute-planter-saucer) |
-| [Track Socket Storage Tray](../models/socket-rail-tray/) | 200 × 64 × 21.4 mm | 8 | [boxesmodel](https://boxesmodel.com/models/socket-rail-tray) |
-| [Twin-Comb Chopping Board Drying Rack](../models/twin-comb-board-drain/) | 220 × 140 × 85 mm | 2 | [boxesmodel](https://boxesmodel.com/models/twin-comb-board-drain) |
-| [Twin-Comb Wrench Storage Tray](../models/wrench-cradle-tray/) | 180 × 140 × 36 mm | 1 | [boxesmodel](https://boxesmodel.com/models/wrench-cradle-tray) |
-| [Twin-Handle Vented Basket](../models/vented-basket/) | 210 × 150 × 100 mm | 1 | [boxesmodel](https://boxesmodel.com/models/vented-basket) |
-| [Twin-Hole Fixed Divided Box](../models/pegboard-bolt-bin/) | 160 × 100 × 90 mm | 1 | [boxesmodel](https://boxesmodel.com/models/pegboard-bolt-bin) |
-| [Twin-Post Figure-Eight Cable Winder](../models/cable-figure-eight-bin/) | 215 × 110 × 45 mm | 1 | [boxesmodel](https://boxesmodel.com/models/cable-figure-eight-bin) |
-| [Twin-Rod Spool Rack](../models/twin-rod-spool-cradle/) | 300 × 180 × 65 mm | 2 | [boxesmodel](https://boxesmodel.com/models/twin-rod-spool-cradle) |
-| [Twin-Tube Bridge Rest Box](../models/binocular-bridge-bed/) | 155 × 130 × 48 mm | 1 | [boxesmodel](https://boxesmodel.com/models/binocular-bridge-bed) |
-| [Two-Row Post Bag Dryer](../models/twin-mast-bag-dryer/) | 180 × 140 × 185 mm | 5 | [boxesmodel](https://boxesmodel.com/models/twin-mast-bag-dryer) |
-| [Two-Way Sloped Floor Sachet Box](../models/sachet-opposed-bin/) | 190 × 115 × 50 mm | 1 | [boxesmodel](https://boxesmodel.com/models/sachet-opposed-bin) |
-| [Under-Cabinet Lid Rim Hanging Bay](../models/rim-hung-lid-cassette/) | 168 × 95 × 18 mm | 1 | [boxesmodel](https://boxesmodel.com/models/rim-hung-lid-cassette) |
-| [Up-and-Over Rotating Jar Rack](../models/return-can-rack/) | 121.8 × 190.39 × 190.02 mm | 1 | [boxesmodel](https://boxesmodel.com/models/return-can-rack) |
-| [Upright Document Box](../models/open-file-rack/) | 180 × 180 × 150 mm | 1 | [boxesmodel](https://boxesmodel.com/models/open-file-rack) |
-| [Windowed Bangle Arc Slot Box](../models/bangle-upright-saddle/) | 130 × 100 × 50 mm | 1 | [boxesmodel](https://boxesmodel.com/models/bangle-upright-saddle) |
+[All models](../CATALOG.md) · [Collection overview](../README.md)
+
+**1** · [2](open-storage-2.md) · [Next →](open-storage-2.md)
+
+| Thumbnail | Model | Default dimensions | Parts | Preview & customize |
+| --- | --- | --- | ---: | --- |
+| [<img src="../models/arched-vent-nursery-sleeve/preview.png" alt="Arched-Vent Nursery Pot Sleeve" width="140">](../models/arched-vent-nursery-sleeve/) | [Arched-Vent Nursery Pot Sleeve](../models/arched-vent-nursery-sleeve/) | 145 × 145 × 115 mm | 1 | [boxesmodel](https://boxesmodel.com/models/arched-vent-nursery-sleeve) |
+| [<img src="../models/roll-cutter-rail-holder/preview.png" alt="Axle-Rest Roll Cutter Station" width="140">](../models/roll-cutter-rail-holder/) | [Axle-Rest Roll Cutter Station](../models/roll-cutter-rail-holder/) | 380 × 130 × 135 mm | 4 | [boxesmodel](https://boxesmodel.com/models/roll-cutter-rail-holder) |
+| [<img src="../models/bag-roll-dispenser/preview.png" alt="Bag Roll Dispenser Box" width="140">](../models/bag-roll-dispenser/) | [Bag Roll Dispenser Box](../models/bag-roll-dispenser/) | 180 × 110 × 100 mm | 2 | [boxesmodel](https://boxesmodel.com/models/bag-roll-dispenser) |
+| [<img src="../models/makeup-sponge-taper-bed/preview.png" alt="Beauty Sponge Flared Pocket Box" width="140">](../models/makeup-sponge-taper-bed/) | [Beauty Sponge Flared Pocket Box](../models/makeup-sponge-taper-bed/) | 190 × 105 × 38 mm | 1 | [boxesmodel](https://boxesmodel.com/models/makeup-sponge-taper-bed) |
+| [<img src="../models/carton-feed-caddy/preview.png" alt="Boxed Capsule Bottom-Dispensing Compartment Seat" width="140">](../models/carton-feed-caddy/) | [Boxed Capsule Bottom-Dispensing Compartment Seat](../models/carton-feed-caddy/) | 135 × 90 × 86.4 mm | 1 | [boxesmodel](https://boxesmodel.com/models/carton-feed-caddy) |
+| [<img src="../models/fork-vial-step-carrier/preview.png" alt="Cap-Rest Fork Two-Level Bottle Rack" width="140">](../models/fork-vial-step-carrier/) | [Cap-Rest Fork Two-Level Bottle Rack](../models/fork-vial-step-carrier/) | 160 × 70 × 138 mm | 2 | [boxesmodel](https://boxesmodel.com/models/fork-vial-step-carrier) |
+| [<img src="../models/comb-tooth-guard-box/preview.png" alt="Comb Tooth Relief Lying Box" width="140">](../models/comb-tooth-guard-box/) | [Comb Tooth Relief Lying Box](../models/comb-tooth-guard-box/) | 180 × 75 × 45 mm | 1 | [boxesmodel](https://boxesmodel.com/models/comb-tooth-guard-box) |
+| [<img src="../models/controller-wing-basin/preview.png" alt="Controller Twin-Wing Outline Box" width="140">](../models/controller-wing-basin/) | [Controller Twin-Wing Outline Box](../models/controller-wing-basin/) | 185 × 125 × 38 mm | 1 | [boxesmodel](https://boxesmodel.com/models/controller-wing-basin) |
+| [<img src="../models/arc-slot-cap-caddy/preview.png" alt="Curved Brim Cap Holder" width="140">](../models/arc-slot-cap-caddy/) | [Curved Brim Cap Holder](../models/arc-slot-cap-caddy/) | 210 × 280 × 50 mm | 1 | [boxesmodel](https://boxesmodel.com/models/arc-slot-cap-caddy) |
+| [<img src="../models/window-box/preview.png" alt="Cut-Out Storage Box" width="140">](../models/window-box/) | [Cut-Out Storage Box](../models/window-box/) | 200 × 130 × 75 mm | 1 | [boxesmodel](https://boxesmodel.com/models/window-box) |
+| [<img src="../models/battery-feed-bin/preview.png" alt="Cylinder Bottom-Dispensing Bin" width="140">](../models/battery-feed-bin/) | [Cylinder Bottom-Dispensing Bin](../models/battery-feed-bin/) | 109.8 × 72.9 × 120 mm | 1 | [boxesmodel](https://boxesmodel.com/models/battery-feed-bin) |
+| [<img src="../models/date-tab-egg-ramp/preview.png" alt="Date-Label Gentle Slope Egg Rack" width="140">](../models/date-tab-egg-ramp/) | [Date-Label Gentle Slope Egg Rack](../models/date-tab-egg-ramp/) | 90 × 240 × 55.9 mm | 2 | [boxesmodel](https://boxesmodel.com/models/date-tab-egg-ramp) |
+| [<img src="../models/front-pull-bottle-caddy/preview.png" alt="Deep Cabinet Front-Pull Steady Bottle Box" width="140">](../models/front-pull-bottle-caddy/) | [Deep Cabinet Front-Pull Steady Bottle Box](../models/front-pull-bottle-caddy/) | 92 × 245 × 94 mm | 1 | [boxesmodel](https://boxesmodel.com/models/front-pull-bottle-caddy) |
+| [<img src="../models/fold-gate-carton-wall-cradle/preview.png" alt="Drop-Down Front Paper Box Wall Rack" width="140">](../models/fold-gate-carton-wall-cradle/) | [Drop-Down Front Paper Box Wall Rack](../models/fold-gate-carton-wall-cradle/) | 290 × 135 × 100 mm | 11 | [boxesmodel](https://boxesmodel.com/models/fold-gate-carton-wall-cradle) |
+| [<img src="../models/hanger-shoulder-stack-cradle/preview.png" alt="Empty Hanger Double-Shoulder Stand" width="140">](../models/hanger-shoulder-stack-cradle/) | [Empty Hanger Double-Shoulder Stand](../models/hanger-shoulder-stack-cradle/) | 374 × 79.51 × 38 mm | 3 | [boxesmodel](https://boxesmodel.com/models/hanger-shoulder-stack-cradle) |
+| [<img src="../models/rim-rest-drainage-liner/preview.png" alt="Flanged Tapered Drainage Liner" width="140">](../models/rim-rest-drainage-liner/) | [Flanged Tapered Drainage Liner](../models/rim-rest-drainage-liner/) | 150 × 150 × 115 mm | 1 | [boxesmodel](https://boxesmodel.com/models/rim-rest-drainage-liner) |
+| [<img src="../models/pour-sorter/preview.png" alt="Flow Guide Sorting Tray" width="140">](../models/pour-sorter/) | [Flow Guide Sorting Tray](../models/pour-sorter/) | 180 × 130 × 32 mm | 1 | [boxesmodel](https://boxesmodel.com/models/pour-sorter) |
+| [<img src="../models/folding-partition-crate/preview.png" alt="Folding Column Crate" width="140">](../models/folding-partition-crate/) | [Folding Column Crate](../models/folding-partition-crate/) | 184 × 144 × 64 mm | 10 | [boxesmodel](https://boxesmodel.com/models/folding-partition-crate) |
+| [<img src="../models/cleat-hanging-bin/preview.png" alt="French Cleat Wall Divided Box" width="140">](../models/cleat-hanging-bin/) | [French Cleat Wall Divided Box](../models/cleat-hanging-bin/) | 180 × 110 × 85 mm | 2 | [boxesmodel](https://boxesmodel.com/models/cleat-hanging-bin) |
+| [<img src="../models/hairpin-labyrinth-tray/preview.png" alt="Hairpin Switchback Lane Tray" width="140">](../models/hairpin-labyrinth-tray/) | [Hairpin Switchback Lane Tray](../models/hairpin-labyrinth-tray/) | 180 × 130 × 25 mm | 1 | [boxesmodel](https://boxesmodel.com/models/hairpin-labyrinth-tray) |
+| [<img src="../models/carry-caddy/preview.png" alt="Handle Storage Basket" width="140">](../models/carry-caddy/) | [Handle Storage Basket](../models/carry-caddy/) | 220 × 150 × 125 mm | 1 | [boxesmodel](https://boxesmodel.com/models/carry-caddy) |
+| [<img src="../models/dryer-nozzle-horseshoe/preview.png" alt="Horseshoe Nozzle Clearance Box" width="140">](../models/dryer-nozzle-horseshoe/) | [Horseshoe Nozzle Clearance Box](../models/dryer-nozzle-horseshoe/) | 130 × 125 × 35 mm | 1 | [boxesmodel](https://boxesmodel.com/models/dryer-nozzle-horseshoe) |
+| [<img src="../models/soft-liner-lens-cup/preview.png" alt="Interchangeable Soft Liner Lens Bay" width="140">](../models/soft-liner-lens-cup/) | [Interchangeable Soft Liner Lens Bay](../models/soft-liner-lens-cup/) | 110 × 110 × 40 mm | 2 | [boxesmodel](https://boxesmodel.com/models/soft-liner-lens-cup) |
+| [<img src="../models/lift-mat-brush-basin/preview.png" alt="Lift-Mat Textured Brush Shallow Box" width="140">](../models/lift-mat-brush-basin/) | [Lift-Mat Textured Brush Shallow Box](../models/lift-mat-brush-basin/) | 150 × 110 × 25 mm | 2 | [boxesmodel](https://boxesmodel.com/models/lift-mat-brush-basin) |
+| [<img src="../models/lift-cup-umbrella-basin/preview.png" alt="Lift-Out Tube Folding Umbrella Drip Stand" width="140">](../models/lift-cup-umbrella-basin/) | [Lift-Out Tube Folding Umbrella Drip Stand](../models/lift-cup-umbrella-basin/) | 140 × 130 × 190 mm | 2 | [boxesmodel](https://boxesmodel.com/models/lift-cup-umbrella-basin) |
+| [<img src="../models/lipstick-step-well-box/preview.png" alt="Lipstick Stepped Shoulder Locating Box" width="140">](../models/lipstick-step-well-box/) | [Lipstick Stepped Shoulder Locating Box](../models/lipstick-step-well-box/) | 170 × 110 × 50 mm | 1 | [boxesmodel](https://boxesmodel.com/models/lipstick-step-well-box) |
+| [<img src="../models/cotton-swab-cross-box/preview.png" alt="Mid-Grip Cotton Bud Box" width="140">](../models/cotton-swab-cross-box/) | [Mid-Grip Cotton Bud Box](../models/cotton-swab-cross-box/) | 165 × 85 × 40 mm | 1 | [boxesmodel](https://boxesmodel.com/models/cotton-swab-cross-box) |
+| [<img src="../models/mouse-pear-tail-case/preview.png" alt="Mouse Pear-Shaped Tail Slot Box" width="140">](../models/mouse-pear-tail-case/) | [Mouse Pear-Shaped Tail Slot Box](../models/mouse-pear-tail-case/) | 180 × 120 × 35 mm | 1 | [boxesmodel](https://boxesmodel.com/models/mouse-pear-tail-case) |
+| [<img src="../models/twin-key-lid-file/preview.png" alt="Movable Two-Leg Divider Lid Rack" width="140">](../models/twin-key-lid-file/) | [Movable Two-Leg Divider Lid Rack](../models/twin-key-lid-file/) | 240 × 170 × 110 mm | 5 | [boxesmodel](https://boxesmodel.com/models/twin-key-lid-file) |
+| [<img src="../models/heel-stop-bottle-cellar/preview.png" alt="Neck &amp; Body Twin-Cradle Bottle Box" width="140">](../models/heel-stop-bottle-cellar/) | [Neck & Body Twin-Cradle Bottle Box](../models/heel-stop-bottle-cellar/) | 240 × 210 × 65 mm | 1 | [boxesmodel](https://boxesmodel.com/models/heel-stop-bottle-cellar) |
+| [<img src="../models/scoop-bin/preview.png" alt="Open-Front Parts Box" width="140">](../models/scoop-bin/) | [Open-Front Parts Box](../models/scoop-bin/) | 200 × 150 × 90 mm | 1 | [boxesmodel](https://boxesmodel.com/models/scoop-bin) |
+| [<img src="../models/open-front-shoe-pair/preview.png" alt="Open-Front Two-Shoe Rack" width="140">](../models/open-front-shoe-pair/) | [Open-Front Two-Shoe Rack](../models/open-front-shoe-pair/) | 150 × 238 × 132 mm | 2 | [boxesmodel](https://boxesmodel.com/models/open-front-shoe-pair) |
+| [<img src="../models/pen-tip-tray/preview.png" alt="Pen Lay-Flat Slot Tray" width="140">](../models/pen-tip-tray/) | [Pen Lay-Flat Slot Tray](../models/pen-tip-tray/) | 200 × 100 × 18 mm | 1 | [boxesmodel](https://boxesmodel.com/models/pen-tip-tray) |
+| [<img src="../models/wave-filter-cup/preview.png" alt="Pleated Filter Paper Shaping Tube" width="140">](../models/wave-filter-cup/) | [Pleated Filter Paper Shaping Tube](../models/wave-filter-cup/) | 114.4 × 114.4 × 51.4 mm | 1 | [boxesmodel](https://boxesmodel.com/models/wave-filter-cup) |
+| [<img src="../models/yarn-guide-bowl/preview.png" alt="Return Hook Yarn Guide Bowl" width="140">](../models/yarn-guide-bowl/) | [Return Hook Yarn Guide Bowl](../models/yarn-guide-bowl/) | 119.6 × 119.6 × 87.8 mm | 1 | [boxesmodel](https://boxesmodel.com/models/yarn-guide-bowl) |
+| [<img src="../models/ring-channel-vanity-box/preview.png" alt="Ring Groove Ring Sorting Tray" width="140">](../models/ring-channel-vanity-box/) | [Ring Groove Ring Sorting Tray](../models/ring-channel-vanity-box/) | 130 × 130 × 25 mm | 1 | [boxesmodel](https://boxesmodel.com/models/ring-channel-vanity-box) |
+| [<img src="../models/split-collar-mat-bin/preview.png" alt="Ring-Ended Rolled Mat Holder" width="140">](../models/split-collar-mat-bin/) | [Ring-Ended Rolled Mat Holder](../models/split-collar-mat-bin/) | 240 × 170 × 70 mm | 3 | [boxesmodel](https://boxesmodel.com/models/split-collar-mat-bin) |
+| [<img src="../models/coil-buckle-pocket-box/preview.png" alt="Rolled Strap &amp; Buckle Compartment Box" width="140">](../models/coil-buckle-pocket-box/) | [Rolled Strap & Buckle Compartment Box](../models/coil-buckle-pocket-box/) | 220 × 150 × 55 mm | 1 | [boxesmodel](https://boxesmodel.com/models/coil-buckle-pocket-box) |
+| [<img src="../models/round-spout-lift-drain-caddy/preview.png" alt="Round Lift-Out Draining Caddy with Spout" width="140">](../models/round-spout-lift-drain-caddy/) | [Round Lift-Out Draining Caddy with Spout](../models/round-spout-lift-drain-caddy/) | 150 × 170 × 85 mm | 2 | [boxesmodel](https://boxesmodel.com/models/round-spout-lift-drain-caddy) |
+| [<img src="../models/razor-head-saddle-box/preview.png" alt="Shaver Head &amp; Handle Compartment Box" width="140">](../models/razor-head-saddle-box/) | [Shaver Head & Handle Compartment Box](../models/razor-head-saddle-box/) | 155 × 120 × 35 mm | 1 | [boxesmodel](https://boxesmodel.com/models/razor-head-saddle-box) |
+| [<img src="../models/shoulder-jaw-battery-nest/preview.png" alt="Shoulder-Clamp Power Tool Battery Dock" width="140">](../models/shoulder-jaw-battery-nest/) | [Shoulder-Clamp Power Tool Battery Dock](../models/shoulder-jaw-battery-nest/) | 130 × 104 × 24.4 mm | 3 | [boxesmodel](https://boxesmodel.com/models/shoulder-jaw-battery-nest) |
+| [<img src="../models/side-service-underdesk-trough/preview.png" alt="Side-Access Under-Desk Cable Trough" width="140">](../models/side-service-underdesk-trough/) | [Side-Access Under-Desk Cable Trough](../models/side-service-underdesk-trough/) | 220 × 110 × 65 mm | 1 | [boxesmodel](https://boxesmodel.com/models/side-service-underdesk-trough) |
+| [<img src="../models/cotton-pad-dispenser/preview.png" alt="Side-Pick Disc Box" width="140">](../models/cotton-pad-dispenser/) | [Side-Pick Disc Box](../models/cotton-pad-dispenser/) | 130 × 90 × 130 mm | 1 | [boxesmodel](https://boxesmodel.com/models/cotton-pad-dispenser) |
+| [<img src="../models/saddle-drain-caddy/preview.png" alt="Sink-Spanning Two-Side Compartment Box" width="140">](../models/saddle-drain-caddy/) | [Sink-Spanning Two-Side Compartment Box](../models/saddle-drain-caddy/) | 122.8 × 150 × 55 mm | 1 | [boxesmodel](https://boxesmodel.com/models/saddle-drain-caddy) |
+| [<img src="../models/perfume-footprint-caddy/preview.png" alt="Square &amp; Round Bottle Base Locating Tray" width="140">](../models/perfume-footprint-caddy/) | [Square & Round Bottle Base Locating Tray](../models/perfume-footprint-caddy/) | 185 × 125 × 32 mm | 1 | [boxesmodel](https://boxesmodel.com/models/perfume-footprint-caddy) |
+| [<img src="../models/powder-brush-groove-tray/preview.png" alt="Suspended Brush Head Cross Slot Box" width="140">](../models/powder-brush-groove-tray/) | [Suspended Brush Head Cross Slot Box](../models/powder-brush-groove-tray/) | 195 × 135 × 38 mm | 1 | [boxesmodel](https://boxesmodel.com/models/powder-brush-groove-tray) |
+| [<img src="../models/taper-flute-planter-saucer/preview.png" alt="Tapered Fluted Planter with Saucer" width="140">](../models/taper-flute-planter-saucer/) | [Tapered Fluted Planter with Saucer](../models/taper-flute-planter-saucer/) | 150 × 150 × 140 mm | 2 | [boxesmodel](https://boxesmodel.com/models/taper-flute-planter-saucer) |
+| [<img src="../models/socket-rail-tray/preview.png" alt="Track Socket Storage Tray" width="140">](../models/socket-rail-tray/) | [Track Socket Storage Tray](../models/socket-rail-tray/) | 200 × 64 × 21.4 mm | 8 | [boxesmodel](https://boxesmodel.com/models/socket-rail-tray) |
+| [<img src="../models/twin-comb-board-drain/preview.png" alt="Twin-Comb Chopping Board Drying Rack" width="140">](../models/twin-comb-board-drain/) | [Twin-Comb Chopping Board Drying Rack](../models/twin-comb-board-drain/) | 220 × 140 × 85 mm | 2 | [boxesmodel](https://boxesmodel.com/models/twin-comb-board-drain) |
+| [<img src="../models/wrench-cradle-tray/preview.png" alt="Twin-Comb Wrench Storage Tray" width="140">](../models/wrench-cradle-tray/) | [Twin-Comb Wrench Storage Tray](../models/wrench-cradle-tray/) | 180 × 140 × 36 mm | 1 | [boxesmodel](https://boxesmodel.com/models/wrench-cradle-tray) |
+
+**1** · [2](open-storage-2.md) · [Next →](open-storage-2.md)

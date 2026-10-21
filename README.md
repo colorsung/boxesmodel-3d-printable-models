@@ -24,7 +24,7 @@
 | [Open Storage](categories/open-storage.md) | 61 |
 | [Drawer Storage](categories/drawer-storage.md) | 10 |
 
-These categories follow the boxesmodel catalog. The [full index](CATALOG.md) lists every model with its dimensions and a direct link to the corresponding interactive preview. A [CSV catalog](catalog.csv) is also included.
+Browse the categories above with clickable thumbnails and up to 50 models per page. These categories follow the boxesmodel catalog. The [full index](CATALOG.md) lists every model with its dimensions and a direct link to the corresponding interactive preview. A [CSV catalog](catalog.csv) is also included.
 
 ## Download and use
 
